@@ -1,0 +1,257 @@
+SID,NAME,ARTIST,dance pop,YEAR,BPM,ENERGY,DANCEABILITY,LOUDNESS,LIVENESS,VALENCE,SPCH ,POP,DURATION,ACTIVITY
+1,Turning Page,Sleeping At Last,dance pop,2011,125,38,30,-8,11,19,3,46,255,3
+2,Brave,Sara Bareilles,barbadian pop,2013,185,84,55,-4,4,76,5,71,221,3
+3,Foolish Games,Jewel,complextro,2013,132,34,51,-11,12,7,3,36,250,5
+4,Talk (feat. Disclosure),Khalid,canadian pop,2019,136,20,2,-9,6,35,13,84,198,6
+5,Dog Days Are Over,Florence + The Machine,british soul,2010,150,50,25,-5,12,26,7,58,253,4
+6,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,canadian pop,2013,126,40,25,-6,13,11,2,74,215,4
+7,Team,Lorde,barbadian pop,2014,100,30,25,-7,31,42,8,73,193,4
+8,St Jude,Florence + The Machine,canadian pop,2015,117,30,26,-11,11,9,1,47,225,4
+9,Wish That You Were Here - From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture,Florence + The Machine,big room,2016,94,30,14,-6,13,12,1,57,403,4
+10,Love,Lana Del Rey,dance pop,2017,99,42,53,-11,11,23,1,72,273,4
+11,Summer Bummer (feat. A$AP Rocky & Playboi Carti),Lana Del Rey,dance pop,2017,135,10,12,-9,20,14,4,67,261,4
+12,Lust for Life (with The Weeknd),Lana Del Rey,colombian pop,2017,100,12,12,-9,36,27,7,54,264,4
+13,OMG (feat. will.i.am),Usher,dance pop,2010,130,75,78,-6,36,33,3,72,269,5
+14,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,canadian pop,2010,120,86,66,-3,8,65,11,52,221,5
+15,Castle Walls (feat. Christina Aguilera),T.I.,australian pop,2010,80,86,45,-5,26,58,39,49,329,5
+16,Castle Walls (feat. Christina Aguilera),T.I.,complextro,2011,80,86,45,-5,26,58,39,49,329,5
+17,Freak,Kelly Rowland,atl hip hop,2013,104,10,65,-5,12,45,6,28,274,5
+18,Chandelier,Sia,canadian contemporary r&b,2014,174,10,5,-10,7,62,7,56,216,6
+19,Elastic Heart,Sia,barbadian pop,2015,130,79,5,-9,15,50,5,73,257,6
+20,Alive,Sia,dance pop,2015,100,20,7,-7,11,44,5,61,264,6
+21,Cheap Thrills,Sia,candy pop,2016,90,10,8,-7,8,73,22,64,225,6
+22,The Greatest,Sia,dance pop,2017,192,73,1,-9,6,73,27,76,210,6
+23,Free Me,Sia,canadian pop,2017,87,20,2,-4,14,21,3,44,286,6
+24,Fancy,Iggy Azalea,dance pop,2014,95,72,91,-4,5,38,7,70,200,5
+25,Whataya Want from Me,Adam Lambert,dance pop,2010,186,68,44,-5,6,45,5,66,227,5
+26,If I Had You,Adam Lambert,brostep,2010,131,91,65,-4,37,79,11,59,228,5
+27,Price Tag,Jessie J,boy band,2011,175,83,64,-4,27,68,18,72,223,5
+28,Domino,Jessie J,barbadian pop,2012,127,55,76,-5,4,78,3,69,232,5
+29,Bang Bang,Jessie J,art pop,2015,150,75,71,-4,38,73,9,61,199,5
+30,Only Girl (In The World),Rihanna,canadian contemporary r&b,2010,126,72,79,-4,7,61,4,73,235,3
+31,Hard,Rihanna,boy band,2010,182,75,31,-4,65,16,11,57,251,3
+32,What's My Name?,Rihanna,canadian pop,2011,100,79,69,-3,8,58,7,69,263,3
+33,We Found Love,Rihanna,pop,2011,128,77,73,-4,11,60,4,61,215,3
+34,Cheers (Drink To That),Rihanna,canadian pop,2011,80,91,58,-4,29,73,4,58,262,3
+35,S&M Remix,Rihanna,dance pop,2011,128,81,82,-3,5,89,5,54,257,3
+36,Where Have You Been,Rihanna,dance pop,2012,128,85,72,-6,22,44,9,68,243,3
+37,Diamonds,Rihanna,dance pop,2012,92,71,56,-5,11,39,5,61,225,3
+38,You Da One,Rihanna,candy pop,2012,127,10,15,-5,13,86,2,57,200,4
+39,Right Now - Dyro Radio Edit,Rihanna,baroque pop,2013,130,50,15,-6,24,45,2,42,186,4
+40,FourFiveSeconds,Rihanna,alaska indie,2015,206,16,16,-6,13,35,3,80,188,4
+41,American Oxygen,Rihanna,boy band,2015,78,50,17,-6,33,48,5,61,320,4
+42,Needed Me,Rihanna,dance pop,2016,111,12,18,-8,8,30,10,80,192,4
+43,Work,Rihanna,dance pop,2016,92,53,73,-6,9,56,9,78,219,1
+44,Love On The Brain,Rihanna,canadian pop,2018,172,64,51,-5,8,38,5,82,224,2
+45,Some Nights,fun.,barbadian pop,2012,108,74,67,-7,9,39,5,72,277,3
+46,We Are Young (feat. Janelle Monáe),fun.,dance pop,2012,184,20,10,-6,8,74,1,63,251,4
+47,Reality - Radio Edit,Lost Frequencies,dance pop,2015,122,70,71,-8,7,60,3,61,159,5
+48,Reality (feat. Janieck Devy) - Radio Edit,Lost Frequencies,GENRE,2017,122,64,73,-7,8,53,4,59,158,6
+49,Hello,Martin Solveig,big room,2010,128,98,67,-3,10,45,3,0,191,7
+50,Wake Me Up,Avicii,boy band,2013,124,78,53,-6,16,64,5,85,247,1
+51,Don't You Worry Child - Radio Edit,Swedish House Mafia,barbadian pop,2013,129,84,61,-3,12,44,5,78,213,2
+52,Hey Brother,Avicii,boy band,2014,125,78,55,-5,8,46,4,78,255,3
+53,Broken Arrows,Avicii,dance pop,2015,116,17,10,-7,10,29,1,65,233,4
+54,Heroes (we could be),Alesso,canadian pop,2015,126,75,52,-4,24,35,6,56,210,5
+55,In the Name of Love,Martin Garrix,canadian pop,2016,134,52,50,-6,45,17,4,81,196,6
+56,There for You,Martin Garrix,british soul,2017,106,64,61,-8,12,13,6,76,222,7
+57,Rich Boy,Galantis,tropical house,2017,110,90,74,-2,8,65,5,55,184,1
+58,All Around The World (La La La),R3HAB,big room,2019,125,86,73,-5,11,52,3,82,148,2
+59,What Makes You Beautiful,One Direction,dance pop,2012,125,79,73,-2,6,89,7,78,200,3
+60,Glad You Came,The Wanted,dance pop,2012,127,85,72,-4,11,45,1,72,198,4
+61,Story of My Life,One Direction,dance pop,2013,121,66,60,-6,12,29,5,81,245,5
+62,Best Song Ever,One Direction,australian dance,2013,118,88,65,-3,8,49,5,73,200,6
+63,Kiss You,One Direction,british soul,2013,90,93,63,-3,32,91,6,73,183,7
+64,Walks Like Rihanna,The Wanted,complextro,2013,126,82,56,-3,10,43,6,62,202,1
+65,We Own The Night,The Wanted,dance pop,2013,104,94,55,-4,23,56,13,56,206,2
+66,Pom Poms,Jonas Brothers,canadian contemporary r&b,2013,148,98,68,-2,28,90,9,52,198,3
+67,She Looks So Perfect,5 Seconds of Summer,dance pop,2014,160,95,49,-4,33,44,2,71,202,4
+68,Night Changes,One Direction,colombian pop,2015,120,52,67,-8,12,37,4,77,227,5
+69,Perfect,One Direction,pop,2015,100,82,65,-5,12,40,8,55,230,6
+70,Steal My Girl,One Direction,canadian pop,2015,77,76,47,-6,14,52,4,51,227,7
+71,Reggaetón Lento (Remix),CNCO,canadian pop,2017,94,91,53,-3,10,62,9,71,189,1
+72,Only Human,Jonas Brothers,complextro,2019,94,50,80,-6,6,87,7,87,183,2
+73,Sucker,Jonas Brothers,canadian pop,2019,138,73,84,-5,11,95,6,86,181,3
+74,Someone Like You,Adele,dance pop,2011,135,33,56,-8,10,28,2,80,285,4
+75,Rolling in the Deep,Adele,boy band,2011,105,76,73,-5,5,52,3,76,228,5
+76,Set Fire to the Rain,Adele,canadian pop,2012,108,68,61,-4,13,47,3,76,242,6
+77,Hello,Adele,canadian pop,2015,158,45,48,-6,9,29,3,73,295,7
+78,Only Love Can Hurt Like This,Paloma Faith,boy band,2015,91,89,57,-5,33,31,8,69,233,1
+79,All I Ask,Adele,big room,2016,142,28,59,-5,15,34,3,71,272,2
+80,Send My Love (To Your New Lover),Adele,dance pop,2016,164,52,69,-8,17,56,10,61,223,3
+81,When We Were Young,Adele,canadian pop,2016,144,12,12,-6,9,27,2,58,291,4
+82,Million Years Ago,Adele,british soul,2016,0,0,0,-60,0,0,0,0,227,5
+83,All I Ask,Adele,art pop,2017,142,28,59,-5,15,34,3,71,272,7
+84,Water Under the Bridge,Adele,boy band,2017,95,84,60,-7,11,47,7,49,240,1
+85,Silence,Marshmello,dance pop,2018,142,76,52,-3,17,29,9,82,181,2
+86,Happier,Marshmello,pop,2019,100,79,69,-3,17,67,5,90,214,3
+87,The Hills,The Weeknd,art pop,2015,113,56,58,-7,14,14,5,84,242,4
+88,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",The Weeknd,australian pop,2015,120,38,66,-6,10,44,3,79,252,5
+89,Here,Alessia Cara,pop,2015,120,82,38,-4,8,33,10,68,199,6
+90,The Hills,The Weeknd,dance pop,2016,113,56,58,-7,14,14,5,84,242,7
+91,Scars To Your Beautiful,Alessia Cara,australian dance,2016,97,74,57,-6,11,45,13,79,230,1
+92,Here,Alessia Cara,celtic rock,2016,120,82,38,-4,8,33,10,68,199,1
+93,Starboy,The Weeknd,art pop,2017,186,59,68,-7,14,49,28,85,230,2
+94,I Feel It Coming,The Weeknd,british soul,2017,93,82,77,-6,7,59,12,81,269,2
+95,"How Far I'll Go - From ""Moana""",Alessia Cara,barbadian pop,2017,181,54,31,-10,7,16,35,71,176,2
+96,"Hold On, We're Going Home",Drake,complextro,2013,100,41,77,-7,7,29,10,73,228,3
+97,Too Good,Drake,canadian pop,2016,118,65,79,-8,10,39,10,74,263,3
+98,Behind Your Back,Nelly Furtado,dance pop,2016,98,47,80,-10,7,69,4,18,228,3
+99,Baby,Justin Bieber,dance pop,2010,65,86,73,-5,11,54,14,77,214,3
+100,What the Hell,Avril Lavigne,big room,2011,150,93,58,-4,14,88,5,74,221,3
+101,Call Me Maybe,Carly Rae Jepsen,atl hip hop,2012,120,58,78,-7,11,66,4,76,193,3
+102,Beauty And A Beat,Justin Bieber,boy band,2012,128,84,60,-5,7,53,6,72,228,3
+103,Boyfriend,Justin Bieber,british soul,2012,97,55,72,-6,13,33,1,71,171,4
+104,Rock N Roll,Avril Lavigne,dance pop,2013,184,96,47,-3,34,67,1,61,207,4
+105,Heartbreaker,Justin Bieber,canadian contemporary r&b,2013,105,52,56,-7,34,58,5,61,263,4
+106,Love Yourself,Justin Bieber,top genre,2015,100,38,61,-10,28,52,5,83,234,4
+107,Sorry,Justin Bieber,british soul,2015,100,76,65,-4,30,41,6,81,201,4
+108,What Do You Mean?,Justin Bieber,dance pop,2015,125,57,85,-8,8,79,7,79,206,4
+109,Stitches,Shawn Mendes,chicago rap,2015,150,75,75,-7,5,76,2,78,207,4
+110,Company,Justin Bieber,canadian pop,2015,95,80,59,-5,8,43,3,72,208,4
+111,I'll Show You,Justin Bieber,dance pop,2015,192,61,36,-7,18,8,7,68,200,4
+112,The Feeling,Justin Bieber,dance pop,2015,127,81,53,-6,10,21,6,67,245,5
+113,I Really Like You,Carly Rae Jepsen,boy band,2015,122,81,62,-5,22,60,4,66,205,5
+114,What Do You Mean? - Acoustic,Justin Bieber,boy band,2015,125,36,77,-11,10,76,4,64,204,5
+115,Mark My Words,Justin Bieber,pop,2015,114,26,38,-9,17,52,3,63,134,5
+116,Been You,Justin Bieber,dance pop,2015,113,78,74,-6,32,86,7,60,199,5
+117,Love Yourself,Justin Bieber,dance pop,2016,100,38,61,-10,28,52,44,83,234,5
+118,Stitches,Shawn Mendes,art pop,2016,150,75,75,-7,5,76,7,78,207,1
+119,Company,Justin Bieber,dance pop,2016,95,80,59,-5,8,43,6,72,208,1
+120,Don't Be A Fool,Shawn Mendes,dance pop,2016,175,34,47,-6,10,27,4,65,216,1
+121,Run Away With Me,Carly Rae Jepsen,australian dance,2016,119,72,56,-6,5,25,5,63,251,1
+122,I Know What You Did Last Summer,Shawn Mendes,canadian pop,2016,114,77,68,-5,16,72,10,57,224,2
+123,Higher,Carly Rae Jepsen,acoustic pop,2016,114,87,65,-5,37,44,6,46,234,2
+124,Treat You Better,Shawn Mendes,colombian pop,2017,83,82,44,-4,11,75,34,84,188,2
+125,Mercy,Shawn Mendes,brostep,2017,148,66,56,-5,11,36,8,81,209,2
+126,Cut To The Feeling,Carly Rae Jepsen,big room,2017,115,91,71,-3,30,65,6,69,208,2
+127,There's Nothing Holdin' Me Back,Shawn Mendes,canadian latin,2018,122,81,87,-4,8,97,6,84,199,2
+128,In My Blood,Shawn Mendes,canadian contemporary r&b,2018,140,71,62,-7,13,49,7,83,211,2
+129,Friends (with BloodPop®),Justin Bieber,dance pop,2018,105,73,74,-5,30,62,4,77,189,2
+130,Youth (feat. Khalid),Shawn Mendes,british soul,2018,100,60,53,-7,13,32,12,75,191,3
+131,Nervous,Shawn Mendes,canadian pop,2018,122,62,84,-7,13,74,8,71,164,6
+132,Señorita,Shawn Mendes,barbadian pop,2019,117,54,76,-6,9,75,3,95,191,7
+133,I Love It (feat. Charli XCX),Icona Pop,canadian pop,2013,126,91,71,-3,15,82,3,67,157,7
+134,Boom Clap - From the Motion Picture Das Schicksal ist ein mieser Verräter,Charli XCX,canadian pop,2014,92,81,68,-4,34,64,6,50,169,7
+135,Hall of Fame,The Script,canadian pop,2013,85,87,42,-4,12,63,6,80,203,7
+136,Monster,Kanye West,belgian edm,2011,125,69,63,-6,67,10,20,73,379,7
+137,Loca,Shakira,canadian pop,2010,112,87,80,-4,9,85,7,56,193,4
+138,Can't Remember to Forget You (feat. Rihanna),Shakira,pop,2014,138,81,69,-4,14,82,7,62,207,4
+139,La La La (Brasil 2014) (feat. Carlinhos Brown),Shakira,canadian pop,2014,128,82,80,-5,35,61,4,50,198,4
+140,Clarity,Zedd,big room,2013,128,78,51,-3,7,18,7,75,271,1
+141,Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,canadian contemporary r&b,2014,128,74,60,-3,9,46,4,64,217,2
+142,I Want You To Know,Zedd,canadian hip hop,2015,130,85,58,-3,14,37,6,68,240,3
+143,True Colors,Zedd,pop,2016,126,79,57,-3,10,49,4,51,225,4
+144,Stay,Zedd,dance pop,2017,102,62,69,-5,12,54,6,80,210,5
+145,Get Low (with Liam Payne),Zedd,dance pop,2017,108,93,72,-4,5,54,5,66,205,6
+146,Tequila,Dan + Shay,dance pop,2018,86,59,47,-6,13,50,3,76,196,1
+147,TiK ToK,Kesha,baroque pop,2010,120,84,76,-3,29,71,14,80,200,1
+148,Bad Romance,Lady Gaga,big room,2010,119,92,70,-4,8,71,4,79,295,1
+149,Dynamite,Taio Cruz,canadian pop,2010,120,78,75,-4,4,82,9,77,203,1
+150,Secrets,OneRepublic,belgian edm,2010,148,76,52,-6,12,38,4,77,225,1
+151,Club Can't Handle Me (feat. David Guetta),Flo Rida,dance pop,2010,128,87,62,-4,6,47,3,73,235,1
+152,Cooler Than Me - Single Mix,Mike Posner,barbadian pop,2010,130,82,77,-5,70,63,5,73,213,2
+153,Telephone,Lady Gaga,dance pop,2010,122,83,83,-6,11,71,4,73,221,2
+154,Like A G6,Far East Movement,canadian pop,2010,125,84,44,-8,12,78,45,72,217,2
+155,Eenie Meenie,Sean Kingston,australian pop,2010,121,61,72,-4,11,83,3,71,202,2
+156,The Time (Dirty Bit),The Black Eyed Peas,dance pop,2010,128,81,82,-8,60,44,7,70,308,2
+157,Alejandro,Lady Gaga,australian hip hop,2010,99,80,63,-7,36,37,5,69,274,2
+158,Your Love Is My Drug,Kesha,canadian pop,2010,120,61,83,-4,9,76,10,69,187,2
+159,Meet Me Halfway,The Black Eyed Peas,art pop,2010,130,63,80,-7,32,40,7,68,284,3
+160,Take It Off,Kesha,big room,2010,125,68,73,-5,9,74,3,66,215,3
+161,All The Right Moves,OneRepublic,australian pop,2010,146,95,53,-4,28,65,5,65,238,3
+162,Naturally,Selena Gomez & The Scene,art pop,2010,133,90,61,-5,5,88,5,64,203,3
+163,I Like It,Enrique Iglesias,boy band,2010,129,94,65,-3,6,73,9,63,231,3
+164,Teenage Dream,Katy Perry,boy band,2010,120,80,72,-5,13,59,4,63,228,3
+165,California Gurls,Katy Perry,australian dance,2010,125,75,79,-4,18,40,5,62,235,3
+166,3,Britney Spears,british soul,2010,135,71,70,-2,14,79,5,62,213,3
+167,My First Kiss - feat. Ke$ha,3OH!3,canadian pop,2010,138,89,68,-4,36,83,8,62,192,3
+168,Blah Blah Blah (feat. 3OH!3),Kesha,australian dance,2010,120,84,75,-3,42,52,12,62,172,3
+169,Imma Be,The Black Eyed Peas,dance pop,2010,92,52,60,-7,31,41,37,62,258,4
+170,Sexy Bitch (feat. Akon),David Guetta,dance pop,2010,130,63,81,-5,13,80,5,61,196,4
+171,Bound To You - Burlesque Original Motion Picture Soundtrack,Christina Aguilera,pop,2010,164,41,29,-5,13,7,3,61,264,4
+172,Rock That Body,The Black Eyed Peas,dance pop,2010,125,91,72,-6,43,84,10,59,269,4
+173,Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack,Christina Aguilera,atl hip hop,2010,150,85,51,-4,12,72,27,58,185,4
+174,You Lost Me,Christina Aguilera,barbadian pop,2010,43,39,23,-6,14,7,4,56,257,4
+175,Not Myself Tonight,Christina Aguilera,atl hip hop,2010,120,81,76,-5,56,54,4,55,186,4
+176,Written in the Stars (feat. Eric Turner),Tinie Tempah,art pop,2010,91,95,64,-4,18,57,7,52,220,4
+177,Break Your Heart,Taio Cruz,pop,2010,122,90,67,-5,8,63,3,33,186,4
+178,A Thousand Years,Christina Perri,canadian pop,2011,139,41,42,-7,11,16,3,81,285,5
+179,Give Me Everything,Pitbull,pop,2011,129,94,67,-3,30,53,16,79,252,5
+180,Run the World (Girls),Beyoncé,contemporary country,2011,127,90,73,-4,37,76,14,76,236,5
+181,Love On Top,Beyoncé,barbadian pop,2011,94,75,65,-5,60,65,9,76,267,5
+182,Tonight Tonight,Hot Chelle Rae,dance pop,2011,100,78,69,-5,16,81,12,75,200,5
+183,Born This Way,Lady Gaga,atl hip hop,2011,124,83,59,-5,33,49,16,73,260,5
+184,Best Thing I Never Had,Beyoncé,canadian contemporary r&b,2011,99,65,55,-4,9,30,3,73,254,5
+185,Party Rock Anthem,LMFAO,dance pop,2011,130,74,75,-4,27,35,16,72,262,5
+186,We R Who We R,Kesha,canadian contemporary r&b,2011,120,82,74,-5,12,65,4,72,205,5
+187,Good Life,OneRepublic,canadian hip hop,2011,95,69,63,-8,13,65,5,72,253,5
+188,Just Can’t Get Enough,The Black Eyed Peas,canadian pop,2011,94,63,66,-9,11,26,18,71,219,5
+189,On The Floor,Jennifer Lopez,boy band,2011,130,78,73,-5,7,57,5,69,285,6
+190,Yeah 3x,Chris Brown,tropical house,2011,130,88,71,-3,9,70,4,69,242,6
+191,Without You (feat. Usher),David Guetta,boy band,2011,128,61,61,-4,16,40,3,68,208,6
+192,Sexy And I Know It,LMFAO,dance pop,2011,130,86,71,-4,19,80,32,67,199,6
+193,The Edge Of Glory,Lady Gaga,barbadian pop,2011,128,77,58,-6,11,36,4,67,321,6
+194,E.T.,Katy Perry,acoustic pop,2011,152,87,62,-5,37,76,18,66,230,6
+195,Till the World Ends,Britney Spears,australian dance,2011,132,71,69,-6,20,45,7,65,238,6
+196,I Wanna Go,Britney Spears,pop,2011,130,55,70,-7,33,79,4,64,210,6
+197,Blow,Kesha,pop,2011,120,73,75,-4,7,81,4,64,220,6
+198,You And I,Lady Gaga,british soul,2011,127,70,52,-5,9,52,5,64,307,7
+199,Judas,Lady Gaga,dance pop,2011,131,93,66,-4,27,53,7,63,249,7
+200,Tonight (I'm Fuckin' You),Enrique Iglesias,alternative r&b,2011,126,89,65,-4,12,32,5,63,232,7
+201,End Game,Taylor Swift,dance pop,2018,159,59,65,-6,11,15,6,70,245,7
+202,Wait,Maroon 5,tropical house,2018,126,60,66,-5,11,45,6,67,191,7
+203,...Ready For It? - BloodPop® Remix,Taylor Swift,dance pop,2018,160,84,58,-5,10,50,22,52,190,7
+204,Drip (feat. Migos),Cardi B,barbadian pop,2018,130,59,97,-8,8,27,26,45,264,7
+205,Memories,Maroon 5,canadian pop,2019,91,32,76,-7,8,57,5,99,189,7
+206,Someone You Loved,Lewis Capaldi,dance pop,2019,110,41,50,-6,11,45,3,96,182,2
+207,How Do You Sleep?,Sam Smith,australian pop,2019,111,68,48,-5,8,35,9,93,202,2
+208,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,dance pop,2019,98,62,86,-6,9,67,8,92,204,2
+209,Beautiful People (feat. Khalid),Ed Sheeran,canadian pop,2019,93,65,64,-8,8,55,19,86,198,2
+210,I Don't Care (with Justin Bieber),Ed Sheeran,canadian contemporary r&b,2019,102,68,80,-5,9,84,4,85,220,3
+211,Girls Like You (feat. Cardi B),Maroon 5,big room,2019,125,54,85,-7,13,45,5,81,236,3
+212,Antisocial (with Travis Scott),Ed Sheeran,barbadian pop,2019,152,82,72,-5,36,91,5,78,162,4
+213,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,canadian pop,2019,95,79,75,-6,7,61,12,75,206,4
+214,Waves - Robin Schulz Radio Edit,Mr. Probz,pop,2015,120,51,83,-9,8,45,4,77,208,5
+215,Runnin' (Lose It All),Naughty Boy,complextro,2015,139,85,32,-6,48,8,8,69,213,5
+216,Runnin' (Lose It All),Naughty Boy,british soul,2016,139,85,32,-6,48,8,8,69,213,7
+217,Lips Are Movin,Meghan Trainor,dance pop,2015,139,83,78,-5,11,95,5,68,183,1
+218,I'll Show You,Justin Bieber,canadian pop,2015,192,61,36,-7,18,8,10,68,200,1
+219,Here,Alessia Cara,canadian contemporary r&b,2015,120,82,38,-4,8,33,10,68,199,1
+220,I Lived,OneRepublic,dance pop,2015,120,85,59,-5,27,34,4,67,235,1
+221,Fireball (feat. John Ryan),Pitbull,dance pop,2015,123,94,69,-5,5,79,6,67,235,1
+222,Easy Love,Sigala,dance pop,2015,124,94,68,-4,12,65,6,67,230,1
+223,The Feeling,Justin Bieber,canadian pop,2015,127,81,53,-6,10,21,6,67,245,1
+224,I Really Like You,Carly Rae Jepsen,canadian pop,2015,122,81,62,-5,22,60,4,66,205,2
+225,BO$$,Fifth Harmony,dance pop,2015,103,87,81,-5,5,74,11,66,171,2
+226,Sugar,Maroon 5,pop,2015,120,79,75,-7,9,88,3,66,235,2
+227,Focus,Ariana Grande,dance pop,2015,100,88,67,-6,44,79,24,66,211,2
+228,All About That Bass,Meghan Trainor,dance pop,2015,134,88,81,-4,11,96,5,65,189,2
+229,On My Mind,Ellie Goulding,dance pop,2015,155,71,70,-7,9,74,5,65,213,2
+230,Love Me Like You,Little Mix,dance pop,2015,106,67,79,-4,28,85,4,65,198,2
+231,Broken Arrows,Avicii,big room,2015,116,67,63,-7,10,29,5,65,233,2
+232,Booty,Jennifer Lopez,dance pop,2015,129,95,71,-4,26,40,5,64,210,2
+233,What Do You Mean? - Acoustic,Justin Bieber,canadian pop,2015,125,36,77,-11,10,76,4,64,204,3
+234,Mark My Words,Justin Bieber,canadian pop,2015,114,26,38,-9,17,52,3,63,134,3
+235,Lay It All on Me,Rudimental,dance pop,2015,123,75,67,-7,19,48,4,62,242,3
+236,American Oxygen,Rihanna,barbadian pop,2015,78,75,39,-6,33,48,9,61,320,3
+237,Bang Bang,Jessie J,australian pop,2015,150,75,71,-4,38,73,9,61,199,3
+238,Reality - Radio Edit,Lost Frequencies,belgian edm,2015,122,70,71,-8,7,60,3,61,159,3
+239,Alive,Sia,australian dance,2015,100,76,51,-4,11,44,5,61,264,3
+240,Sugar (feat. Francesco Yates),Robin Schulz,dance pop,2015,123,82,64,-5,16,64,6,60,219,3
+241,Been You,Justin Bieber,canadian pop,2015,113,78,74,-6,32,86,7,60,199,3
+242,Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,french indie pop,2015,123,89,76,-5,62,78,3,58,189,4
+243,See You Again (feat. Charlie Puth),Wiz Khalifa,hip hop,2015,80,48,69,-8,6,28,8,56,230,4
+244,Heroes (we could be),Alesso,big room,2015,126,75,52,-4,24,35,6,56,210,4
+245,"Feel The Light - From The ""Home"" Soundtrack",Jennifer Lopez,dance pop,2015,156,60,47,-6,9,4,5,55,292,4
+246,Perfect,One Direction,boy band,2015,100,82,65,-5,12,40,8,55,230,4
+247,Ghosttown,Madonna,dance pop,2015,79,55,54,-7,12,9,4,54,250,4
+248,Bang My Head (feat. Sia & Fetty Wap),David Guetta,dance pop,2015,108,87,60,-4,10,59,8,54,193,4
+249,Bloodstream,Ed Sheeran,pop,2015,89,59,48,-6,6,27,5,52,309,5
+250,Living For Love,Madonna,dance pop,2015,123,79,67,-5,25,39,9,52,219,5
+251,Baby Don't Lie,Gwen Stefani,dance pop,2015,100,55,69,-5,10,26,3,52,203,6
+252,Don't Be so Hard on Yourself,Jess Glynne,dance pop,2015,120,82,57,-3,16,66,3,52,211,7
+253,Steal My Girl,One Direction,boy band,2015,77,76,47,-6,14,52,4,51,227,7
+254,"Celebrate (From the Original Motion Picture ""Penguins of Madagascar"")",Pitbull,dance pop,2015,127,85,68,-3,6,93,6,50,193,5
+255,We Are Here,Alicia Keys,hip pop,2015,93,67,64,-6,8,8,4,49,285,2
+256,St Jude,Florence + The Machine,art pop,2015,117,43,26,-11,11,9,3,47,225,7
