@@ -1,7 +1,6 @@
 
 """
-ACTIVITIES
-
+ACTIVITIES SLOT NUMBER
 Meditation	5
 Yoga		6
 Workout		1
@@ -28,9 +27,8 @@ fitness_score_pop = [0]*num_pop
 Y = []
 
 ############################################### Importing the dataset ###########################################################
-dataset = pd.read_csv('Playlist.csv')
+dataset = pd.read_csv('Songs.csv')
 song_att = dataset.iloc[:, [5, 6, 7, 8, 9, 10, 12, 13]].values
-print(type(song_att))
 # Feature Scaling
 from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
@@ -75,9 +73,6 @@ def convert_pop_to_binary(pop):
 
 
 ###################### Calculating Average values of properties of song for a given activity#########################################
-matrix1 = dataset
-# Feature Scaling
-
 matrix = dataset.groupby('ACTIVITY').agg(
     sum_bpm=pd.NamedAgg(column='BPM', aggfunc=sum),
     sum_energy=pd.NamedAgg(column='ENERGY', aggfunc=sum),
@@ -208,8 +203,7 @@ def crossover(mating_pool):
     
     mating_pool.append(mother)
     mating_pool.append(father)
-
-
+    
     return(mating_pool)
 
 
@@ -227,7 +221,6 @@ def check_fitness_all():
     threshold = 1000 # Decide 
     for fit in fitness_score_pop:
         if fit > threshold :
-            print("Returned true")
             return True
 
     return False
@@ -248,7 +241,6 @@ def genetic_algorithm():
         
         
         # Reproduction
-        print("CROSSOVER")
         crossover_rate = 0.2
         for count in range(int(crossover_rate*num_pop)):
            new_mating_pool_binary = crossover(new_mating_pool_binary)
@@ -272,6 +264,8 @@ def genetic_algorithm():
 def visualise():
     X = list(range(1,51))
     plt.plot(X, Y)
+    plt.xlabel("Number Of Generations")
+    plt.ylabel("Minimum Fitness Score")
     plt.show()
     return
 
